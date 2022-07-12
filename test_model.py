@@ -6,9 +6,9 @@ import sys
 filepath = sys.argv[1]
 
 REV_CLASS_MAP = {
-    0: "crack",
-    1: "no_crack",
-    2:"spalls"
+    0: "Crack",
+    1: "Intact wall",
+    2:"Spall"
 }
 
 
